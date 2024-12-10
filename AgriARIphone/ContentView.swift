@@ -12,7 +12,7 @@ import AVFoundation
 import UIKit
 
 struct ContentView: View {
-    @State private var detectedObject: String = "Suche nach Objekten..."
+    @State private var detectedObject: String = "Suche nach Objekten...L"
 
     var body: some View {
         ZStack {
